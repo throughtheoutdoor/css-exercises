@@ -1,0 +1,21 @@
+/* styles.css */
+
+p{
+    font-family: 'Verdana','DejaVu Sans',sans-serif;
+    background-color:rgb(238, 23, 119) ;
+}
+
+.font24{
+    font-size: 24px;
+}
+
+#theblueone{
+    color: rgb(101, 10, 237);
+    font-size: 36px;
+}
+
+.fourthelement{
+    background-color: rgb(39, 219, 54);
+    font-weight:900;
+
+}
