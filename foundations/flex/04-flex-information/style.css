@@ -32,31 +32,24 @@ img {
   outline: auto;
 } */
 
+body{
+  text-align: center;
+}
+
 .title{
-  display: flex;
-  justify-content: center;
-  padding-bottom: 32px;
+  margin-bottom: 32px;
 
 }
 
 .item{
-  width: 200px;
+  max-width : 200px;
   
-}
-
-.item img{
-  width: 200px;
-  height: 200px;
-  max-width: 200px;
-   
 }
 
 .container{
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
   gap: 52px;
 }
 
-.text{
-  text-align: center;
-}
+
