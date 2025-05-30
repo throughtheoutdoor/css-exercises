@@ -75,39 +75,25 @@ button.cancel {
 }
 
 .modal{
-
   display: flex;
-  padding: 20px;
-
-}
-
-.title{
-  display: flex;
-
+  gap: 16px;
+  padding: 16px;
 }
 
 .icon{
   flex-shrink: 0;
 }
 
-.therest{
+.header{
   display: flex;
-  flex-direction: column;
-  margin-left: 20px;
-}
-
-.title{
-  display: flex;
+  align-items: center;
   justify-content: space-between;
-  font-size: 20px;
-  font-weight: 900;
-}
-
-.btns{
-  display: flex;
+  font-size: 18px;
+  font-weight: 700;
+  margin-bottom: 8px;
 }
 
 .text{
-  padding-top: 10px;
-  padding-bottom: 10px;
+  margin-bottom: 16px;
 }
+
