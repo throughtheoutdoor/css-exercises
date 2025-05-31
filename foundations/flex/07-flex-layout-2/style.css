@@ -27,3 +27,30 @@ body {
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
 }
+
+/* Solution */
+
+*{
+  outline: auto;
+  padding: 0;
+  margin: 0;
+}
+
+
+html, body{
+  height: 100%;
+}
+
+body{
+  display: flex;
+  flex-direction: column;
+}
+
+
+.header{
+  font-size: 32px;
+  font-weight: 900;
+  padding-left: 16px;
+  
+
+}
